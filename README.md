@@ -1,1 +1,1 @@
-# myBio
+I am 24 years old and quit my job to change paths in career and dive head first into web development. Im looking forward to learn as much as possible and put everything into practice and find my first job as a Full Stack Web Dev.
